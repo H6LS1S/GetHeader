@@ -1,0 +1,12 @@
+[{
+  "secureHeaders": [
+    "Access-Control-Allow-Origin",
+    "Content-Security-Policy",
+    "Public-Key-Pins",
+    "Referrer-Policy",
+    "Strict-Transport-Security",
+    "X-Content-Type-Options",
+    "X-Frame-Options",
+    "X-XSS-Protection"
+  ]
+}]
